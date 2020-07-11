@@ -17,7 +17,7 @@
 me especializei em soluções enterprise.
  ___ 
  
-### Quer Conhecer um pouco da minha árvore de skills ? 🌐
+### QUER CONHECER UM POUCO DA MINHA ÁRVORE DE SKILLS ? 🌐
 
 **Linguagens que domino:** C# / VB.NET , VBA E SQL
 
