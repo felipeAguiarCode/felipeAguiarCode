@@ -19,13 +19,12 @@ me especializei em soluções enterprise.
  
 ### QUER CONHECER UM POUCO DA MINHA ÁRVORE DE SKILLS ? 🌐
 
-**Linguagens que domino:** C# / VB.NET , VBA E SQL
+- 💻 &nbsp; C# & VB.NET | NODE.JS (javascript) | Rest Apis
+- 🌐 &nbsp; HTML | CSS | JavaScript | Rest API
+- 🛢 &nbsp; SQL | SQL Server | MsAccess | MySQL | MongoDB
+- 🔧 &nbsp; Git | Markdown | Selenium 
+- 🖥 &nbsp; Figma
 
-**Linguagens de marcação/ estilização:** HTML5, CSS3 , MARKDOWN
- 
-**Plataformas de desenvolvimento**: .Net / Asp.Net e Node.Js
-  
-**Ferramentas / Linguagens para automatização**:  Selenium WebDrive, Excel VBA e Win Automation
 
 **Soft Skills:** Boa comunicação, Empatia com necessidades dos clientes e colegas de trabalho, team player
 
