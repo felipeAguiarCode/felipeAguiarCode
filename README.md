@@ -18,7 +18,7 @@
 
 📈 Adepto das **metodologias agéis**, também possuo a certificação **Scrum - SFC** pela (Scrum study) [Da uma conferida aqui](http://81cd1176253f3f59d435-ac22991740ab4ff17e21daf2ed577041.r77.cf1.rackcdn.com/Certificates/ScrumFundamentalsCertified-FelipeSilvaAguiar-752533.pdf).
 
-🎓 Formado em **Ciência da Computação** pela Universidade Paulista (UNIP - 2016) e continuo me atualizando nas tendências de tecnologias do mercado através de cursos técnicos,
+🎓 Formado em **Ciência da Computação** e continuo me atualizando nas tendências de tecnologias do mercado através de cursos técnicos,
 me especializei em soluções enterprise.
 
 ***
@@ -31,7 +31,7 @@ me especializei em soluções enterprise.
 ![Dotnet](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;
 ![c-sharp](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
 
-### 🖍📐 &nbsp;Front-end
+### 🎨 &nbsp;Front-end
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
