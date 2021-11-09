@@ -1,11 +1,16 @@
 
-# 👨‍💻 Felipe Silva Aguiar  [![social](https://img.shields.io/badge/Cientista_da_computação--grey?style=flat&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/felipe-aguiar-047/)
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, eu sou Felipe Aguiar - desenvolvedor .NET C# / NODE.JS </h1>
 
-## Desenvolvedor .NET / NODE.JS 
+<div align="center">
+   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+</div>
+<div align="center">
+   <a href="https://www.linkedin.com/in/felipe-aguiar-047/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.youtube.com/channel/UCCcDZkI7AITYFCgDEFV9OoQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/felipe-aguiar-047/detail/recent-activity/posts/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF0000?style=for-the-badge&logo=Blogger&logoColor=white" target="_blank"></a>
+</div>
 
-[![social](https://img.shields.io/badge/Linkedin--blue?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/felipe-aguiar-047/)
-[![social](https://img.shields.io/badge/Youtube--red?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/playlist?list=PLTZ2g-iFpCUsG8q3LsvU_gJwU8IkDzCBB)
-[![social](https://img.shields.io/badge/Artigos--blue?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/felipe-aguiar-047/detail/recent-activity/posts/)
+***
 
 ### FLUENTE EM LINGUAGENS DE PROGRAMAÇÃO E NA LINGUAGEM DE NEGÓCIOS 
 
@@ -15,41 +20,30 @@
 
 🎓 Formado em **Ciência da Computação** pela Universidade Paulista (UNIP - 2016) e continuo me atualizando nas tendências de tecnologias do mercado através de cursos técnicos,
 me especializei em soluções enterprise.
- ___ 
- 
-
-### QUER CONHECER UM POUCO DA MINHA ÁRVORE DE SKILLS ? 🌐
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/225px-C_Sharp_logo.svg.png" alt="C#" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/VB.NET_Logo.svg/225px-VB.NET_Logo.svg.png" alt="VB.NET" height="30"/>
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="30"/>
-  <img src="https://miro.medium.com/max/816/1*mn6bOs7s6Qbao15PMNRyOA.png" alt="TypeScript" height="30"/>
-
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="Node.js" height="30"/>
-
-  <img src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png" alt="CSS3" height="30"/>
-  <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-1.png" alt="HTML5" height="30"/>
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1200px-MongoDB_Logo.svg.png" alt="MongoDB" height="30"/>
-  <img src="https://altyra.com/wp-content/uploads/2018/11/microsoft-sql-server-logo-png.png" alt="SQL Server" height="30"/>
-</p>
-
 
 ***
+## 🛠 &nbsp;Tech Stack
 
+### 👩‍💻 &nbsp;Back-End
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Dotnet](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)&nbsp;
+![c-sharp](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)&nbsp;
 
-- 💻 &nbsp; C# & VB.NET | NODE.JS (javascript) | Rest Apis
-- 🌐 &nbsp; HTML | CSS | JavaScript | Rest API
-- 🛢 &nbsp; SQL | SQL Server | MsAccess | MySQL | MongoDB
-- 🔧 &nbsp; Git | Markdown | Selenium 
-- 🖥 &nbsp; Figma
+### 🖍📐 &nbsp;Front-end
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 
+### ⚡ &nbsp;Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=1572B6)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
-**Soft Skills:** Boa comunicação, Empatia com necessidades dos clientes e colegas de trabalho, team player
-
-Além de código limpo e prezar pela manutenibilidade, entendo que **código bom é código que entrega features funcionais** e que **agregam valor ao negócio**.
-
-[![social](https://img.shields.io/badge/ENTRAR_EM_CONTATO_AGORA--red?style=for-the-badge)](https://www.linkedin.com/in/felipe-aguiar-047/)
-
+***
+<div align="center">
+  <a href="https://github.com/engenny">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeAguiarCode&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeAguiarCode&layout=compact&langs_count=7&theme=radical"/>
+</div>
