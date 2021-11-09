@@ -11,8 +11,9 @@
 </div>
 
 ***
-
-### FLUENTE EM LINGUAGENS DE PROGRAMAÇÃO E NA LINGUAGEM DE NEGÓCIOS 
+<div align="center">
+   <h3> FLUENTE EM LINGUAGENS DE PROGRAMAÇÃO E NA LINGUAGEM DE NEGÓCIOS </h3>
+</div>
 
 - 🎯 Amo tecnologias, mas adoro ainda mais os resultados e transformações de negócios que ela pode proporcionar, escolhendo a **tecnologia ideal** para o **problema certo** para criar soluções de alto valor.
 
@@ -41,7 +42,8 @@ me especializei em soluções enterprise.
 ![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=1572B6)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
-***
+## 📊 &nbsp;Stats
+
 <div align="center">
   <a href="https://github.com/engenny">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeAguiarCode&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
