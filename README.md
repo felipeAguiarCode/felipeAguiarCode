@@ -1,5 +1,5 @@
 
-<h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> eu sou o Felipe Aguiar - dev .NET C# / NODE.JS </h1>
+<h1 align="center">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30" alt="hand saying ola"width="30px" alt="hand_saying_ hi"> eu sou o Felipe Aguiar - dev .NET C# / NODE.JS </h1>
 
 <div align="center">
    <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
