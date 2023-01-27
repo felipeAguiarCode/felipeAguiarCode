@@ -8,7 +8,9 @@
 
 <div align="center">
 <p><a href="mailto:felipe.silva.aguiar047@gmail.com"><img src="https://img.shields.io/badge/-felipe.silva.aguiar047@gmail.com-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=EBD03E&amp;color:FFF" alt="E-mail"></a>
-<a href="www.linkedin.com/in/felipe-me"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
+   
+<a href="https://www.linkedin.com/in/felipe-me"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
+
 <a href="https://www.youtube.com/channel/UCCcDZkI7AITYFCgDEFV9OoQ"><img src="https://img.shields.io/badge/-Youtube-020114?style=for-the-badge&amp;logo=youtube&amp;logoColor=EBD03E&amp;color:FFF" alt="Youtube"></a></p>
 </div>
 
