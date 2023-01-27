@@ -14,15 +14,14 @@
 
 ***
 <div align="center">
-   <h3> FLUENTE EM LINGUAGENS DE PROGRAMAÇÃO E NA LINGUAGEM DE NEGÓCIOS </h3>
+   <h3> Fluent in programming languages and business language </h3>
 </div>
 
-- 🎯 Amo tecnologias, mas adoro ainda mais os resultados e transformações de negócios que ela pode proporcionar, escolhendo a **tecnologia ideal** para o **problema certo** para criar soluções de alto valor.
+- 🎯  I love technology, but I love even more the business results and transformations it can bring, by choosing the right technology for the right problem to create high-value solutions.
 
-- 📈 Adepto das **metodologias agéis**, também possuo a certificação **Scrum - SFC** pela (Scrum study) [Da uma conferida aqui](http://81cd1176253f3f59d435-ac22991740ab4ff17e21daf2ed577041.r77.cf1.rackcdn.com/Certificates/ScrumFundamentalsCertified-FelipeSilvaAguiar-752533.pdf).
+- 📈 Adherent to agile methodologies, I also have the Scrum - SFC certification from (Scrum study) [Check it out here.](http://81cd1176253f3f59d435-ac22991740ab4ff17e21daf2ed577041.r77.cf1.rackcdn.com/Certificates/ScrumFundamentalsCertified-FelipeSilvaAguiar-752533.pdf).
 
-- 🎓 Formado em **Ciência da Computação** e continuo me atualizando nas tendências de tecnologias do mercado através de cursos técnicos,
-me especializei em soluções enterprise.
+- 🎓 Graduated in Computer Science and I continue to update myself on market technology trends through technical courses, I specialize in enterprise solutions.
 
 ***
 ## 🛠 &nbsp;Tech Stack
