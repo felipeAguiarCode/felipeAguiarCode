@@ -1,5 +1,5 @@
 <h1 align="center">
- 👋Hello World! I'M Felipe Aguiar - DEV .NET C# / NODE.JS
+ 👋Hello World! I'M Felipe Aguiar
 </h1>
 
 <div align="center">
