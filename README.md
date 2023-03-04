@@ -58,7 +58,6 @@
 			<a href="https://nuxt.com/docs"><img src="./.github/assets/documentation.png" /></a></td>
 			<td valign="top">
 			<h3>ChatGPT Clone (Node + React)</h3>
-
 			<p>A Node integration with OpenAI algorithm and front-end with React<br />
 			Techs: Javascript, Node, React</p>
 			</td>
