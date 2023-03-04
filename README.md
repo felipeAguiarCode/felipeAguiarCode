@@ -55,21 +55,18 @@
 	<tbody>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
-			<a href="https://nuxt.com/docs"><img src="./.github/assets/documentation.png" /></a></td>
+			<a href="https://github.com/felipeAguiarCode/node-chatgpt-api"><img src="./.github/assets/documentation.png" /></a></td>
 			<td valign="top">
 			<h3>ChatGPT Clone (Node + React)</h3>
-			<p>A Node integration with OpenAI algorithm and front-end with React<br />
-			Techs: Javascript, Node, React</p>
+			<p>A Node integration with OpenAI algorithm and front-end with React</p>
 			</td>
 		</tr>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
-			<a href="https://nuxt.com/modules"><img src="./.github/assets/modules.png" /></a></td>
+			<a href="https://github.com/felipeAguiarCode/angular-blog"><img src="./.github/assets/documentation.png" /></a></td>
 			<td valign="top">
 			<h3>Angular Blog</h3>
-
-			<p>An Simple blog with Angular, good pratices for folder structure<br />
-			Techs: Javascript, Node, React</p>
+			<p>An Simple blog with Angular, good pratices for folder structure.</p>
 			</td>
 		</tr>
 	</tbody>
