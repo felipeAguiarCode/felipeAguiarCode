@@ -1,13 +1,20 @@
-<h1 align="center">Hello! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30" alt="hand saying ola"width="30px" alt="hand_saying_ hi"> I'M Felipe Aguiar - DEV .NET C# / NODE.JS </h1>
+<h1 align="center">
+  Hello World! I'M Felipe Aguiar - DEV .NET C# / NODE.JS
+</h1>
 
 <div align="center">
    <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
 </div>
 
-<h3 align="center">Connect with me</h3>
+<h3 align="center">
+  Connect with me
+</h3>
 
 <div align="center">
-<p><a href="mailto:felipe.silva.aguiar047@gmail.com"><img src="https://img.shields.io/badge/-felipe.silva.aguiar047@gmail.com-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=EBD03E&amp;color:FFF" alt="E-mail"></a>
+<p>
+<a href="mailto:felipe.silva.aguiar047@gmail.com">
+<img src="https://img.shields.io/badge/-felipe.silva.aguiar047@gmail.com-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=EBD03E&amp;color:FFF" alt="E-mail">
+</a>
 <a href="https://www.linkedin.com/in/felipe-me"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
 <a href="https://www.youtube.com/channel/UCCcDZkI7AITYFCgDEFV9OoQ"><img src="https://img.shields.io/badge/-Youtube-020114?style=for-the-badge&amp;logo=youtube&amp;logoColor=EBD03E&amp;color:FFF" alt="Youtube"></a></p>
 </div>
@@ -55,7 +62,10 @@
 	<tbody>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/felipeAguiarCode/node-chatgpt-api"><img src="./.github/assets/documentation.png" /></a></td>
+			<a href="https://github.com/felipeAguiarCode/node-chatgpt-api">
+      <img src="./.github/assets/documentation.png" />
+      </a>
+      </td>
 			<td valign="top">
 			<h3>ChatGPT Clone (Node + React)</h3>
 			<p>A Node integration with OpenAI algorithm and front-end with React</p>
@@ -63,7 +73,10 @@
 		</tr>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/felipeAguiarCode/angular-blog"><img src="./.github/assets/documentation.png" /></a></td>
+			<a href="https://github.com/felipeAguiarCode/angular-blog">
+      <img src="./.github/assets/documentation.png" />
+      </a>
+      </td>
 			<td valign="top">
 			<h3>Angular Blog</h3>
 			<p>An Simple blog with Angular, good pratices for folder structure.</p>
