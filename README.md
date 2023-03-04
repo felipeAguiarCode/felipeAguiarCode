@@ -44,6 +44,39 @@
 ![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-ECE2FB?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=1572B6)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-ECE2FB?style=for-the-badge&logo=mysql)&nbsp;
 
+# Pinned Projects
+
+<table>
+	<thead>
+		<tr>
+			<th colspan="2" width="2000">&nbsp;</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td align="center" valign="top" width="80"><br />
+			<a href="https://nuxt.com/docs"><img src="./.github/assets/documentation.png" /></a></td>
+			<td valign="top">
+			<h3>ChatGPT Clone (Node + React)</h3>
+
+			<p>A Node integration with OpenAI algorithm and front-end with React<br />
+			Techs: Javascript, Node, React</p>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="80"><br />
+			<a href="https://nuxt.com/modules"><img src="./.github/assets/modules.png" /></a></td>
+			<td valign="top">
+			<h3>Angular Blog</h3>
+
+			<p>An Simple blog with Angular, good pratices for folder structure<br />
+			Techs: Javascript, Node, React</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
 ## 📊 &nbsp;Stats
 
 <h3 align="left">GitHub Stats</h3>
