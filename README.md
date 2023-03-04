@@ -20,15 +20,14 @@
 </div>
 
 ***
-<div align="center">
-   <h3> Fluent in programming languages and business language </h3>
-</div>
 
-- 🎯  I love technology, but I love even more the business results and transformations it can bring, by choosing the right technology for the right problem to create high-value solutions.
+### 🎯 Fluent in programming languages and business language
 
-- 📈 Adherent to agile methodologies, I also have the Scrum - SFC certification from (Scrum study) [Check it out here.](http://81cd1176253f3f59d435-ac22991740ab4ff17e21daf2ed577041.r77.cf1.rackcdn.com/Certificates/ScrumFundamentalsCertified-FelipeSilvaAguiar-752533.pdf).
+Hey there 👋
 
-- 🎓 Graduated in Computer Science and I continue to update myself on market technology trends through technical courses, I specialize in enterprise solutions.
+I’m Felipe, a full-stack engineer, creative coder and 🎓graduated in Computer Science. I made it my mission my passion for education and changing people's lives through programming, I specialize in Dotnet and Javascript solutions.
+
+Want to know more about me? [Check out my Youtube.](https://www.youtube.com/channel/UCCcDZkI7AITYFCgDEFV9OoQ)
 
 ***
 ## 🛠 &nbsp;Tech Stack
