@@ -8,7 +8,7 @@
 </div>
 
 <h3 align="center">
-  Connect with me
+  FullStack Developer • Tech Instructor • Youtube
 </h3>
 
 <div align="center">
