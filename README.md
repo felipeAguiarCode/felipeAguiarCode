@@ -25,6 +25,7 @@
 
 ***
 
+```
 ### 🎯 Fluent in programming languages and business language
 
 Hey there 👋
@@ -32,6 +33,7 @@ Hey there 👋
 I’m Felipe, a full-stack engineer, creative coder and 🎓graduated in Computer Science. I made it my mission my passion for education and changing people's lives through programming, I specialize in Dotnet and Javascript solutions.
 
 Want to know more about me? [Check out my Youtube.](https://www.youtube.com/channel/UCCcDZkI7AITYFCgDEFV9OoQ)
+```
 
 ***
 ## 🛠 &nbsp;Tech Stack
