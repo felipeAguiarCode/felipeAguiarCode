@@ -27,13 +27,9 @@
 
 ### 🎯 Fluent in programming languages and business language
 
-Hey there 👋
+Olá! 👋
 
-I’m Felipe, a full-stack engineer, creative coder and 🎓graduated in Computer Science. I made it my mission my passion for education and changing people's lives through programming, I specialize in Dotnet and Javascript solutions.
-
-Want to know more about me? [Check out my Youtube.](https://www.youtube.com/channel/UCCcDZkI7AITYFCgDEFV9OoQ)
-
----
+Eu sou Felipe, dev full-stack, criativo e 🎓formado em Ciência da Computação. Apaixonado por mudar a vida das pessoas por meio da programação, sou especialista em soluções Dotnet e Javascript.
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -57,11 +53,11 @@ Want to know more about me? [Check out my Youtube.](https://www.youtube.com/chan
 ![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-E7ECEB?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=FDFD62)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-E7ECEB?style=for-the-badge&logo=mysql&logoColor=004D8F)&nbsp;
 
-## 📽️ &nbsp;Veja meus últimos vídeos tutoriais
+## 🎬 &nbsp;Veja meus últimos vídeos tutoriais
 
 <!-- YT LIST START -->
 
-[<img src="../felipeAguiarCode/.github/assets/yt-covers/cv-1.png" align="left" width="200" />](https://www.youtube.com/watch?v=HTLaHYkFvV8)
+[<img src="./.github/assets/yt-covers/cv-1.png" align="left" width="200" />](https://www.youtube.com/watch?v=HTLaHYkFvV8)
 **[Chocolatey - o gerenciador de pacotes do windows](https://www.youtube.com/watch?v=HTLaHYkFvV8)**
 <br /> _13 Jul 2020_
 <img align="center" width="100%" height="0" />
@@ -71,6 +67,8 @@ Want to know more about me? [Check out my Youtube.](https://www.youtube.com/chan
 <img align="center" width="100%" height="0" />
 
 <!-- YT LIST END -->
+
+Quer ver mais do meu trabalho ? [Veja meu Canal do Youtube.](https://www.youtube.com/channel/UCCcDZkI7AITYFCgDEFV9OoQ)
 
 ## 📌 &nbsp;Pinned Repositories
 
