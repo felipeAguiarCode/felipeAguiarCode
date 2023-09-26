@@ -23,7 +23,7 @@
 <a href="https://www.youtube.com/channel/UCCcDZkI7AITYFCgDEFV9OoQ"><img src="https://img.shields.io/badge/-Youtube-020114?style=for-the-badge&amp;logo=youtube&amp;logoColor=EBD03E&amp;color:FFF" alt="Youtube"></a></p>
 </div>
 
-***
+---
 
 ### 🎯 Fluent in programming languages and business language
 
@@ -33,8 +33,8 @@ I’m Felipe, a full-stack engineer, creative coder and 🎓graduated in Compute
 
 Want to know more about me? [Check out my Youtube.](https://www.youtube.com/channel/UCCcDZkI7AITYFCgDEFV9OoQ)
 
+---
 
-***
 ## 🛠 &nbsp;Tech Stack
 
 ### 👩‍💻 &nbsp;Back-End
@@ -45,15 +45,32 @@ Want to know more about me? [Check out my Youtube.](https://www.youtube.com/chan
 ![c-sharp](https://img.shields.io/badge/-C%23-E7ECEB?style=for-the-badge&logo=c-sharp&logoColor=3D5A7A)&nbsp;
 
 ### 🎨 &nbsp;Front-end
+
 ![HTML](https://img.shields.io/badge/-HTML-E7ECEB?style=for-the-badge&logo=HTML5&logoColor=C86833)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-E7ECEB?style=for-the-badge&logo=CSS3&logoColor=139DFF)&nbsp;
 ![React](https://img.shields.io/badge/-React-E7ECEB?style=for-the-badge&logo=react&logoColor=1572B6)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-E7ECEB?style=for-the-badge&logo=Angular&logoColor=893121)&nbsp;
 
-### ⚡ &nbsp;Database 
+### ⚡ &nbsp;Database
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-E7ECEB?style=for-the-badge&logo=mongodb&logoColor=C86833)&nbsp;
 ![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-E7ECEB?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=FDFD62)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-E7ECEB?style=for-the-badge&logo=mysql&logoColor=004D8F)&nbsp;
+
+## 📽️ &nbsp;Veja meus últimos vídeos tutoriais
+
+<!-- YT LIST START -->
+
+[<img src="../felipeAguiarCode/.github/assets/yt-covers/cv-1.png" align="left" width="200" />](https://www.youtube.com/watch?v=HTLaHYkFvV8)
+**[Chocolatey - o gerenciador de pacotes do windows](https://www.youtube.com/watch?v=HTLaHYkFvV8)**
+<br /> _13 Jul 2020_
+<img align="center" width="100%" height="0" />
+[<img src="./.github/assets/yt-covers/cv-2.png" align="left" width="200" />](https://www.youtube.com/watch?v=G31EuXNMDPk)
+**[Mini Curso Manipulando DOM com Javascript ](https://www.youtube.com/watch?v=9JVE8OGRSlA)**
+<br /> _07 Jul 2020_
+<img align="center" width="100%" height="0" />
+
+<!-- YT LIST END -->
 
 ## 📌 &nbsp;Pinned Repositories
 
@@ -89,7 +106,6 @@ Want to know more about me? [Check out my Youtube.](https://www.youtube.com/chan
 	</tbody>
 </table>
 
-
 ## 📊 &nbsp;Stats
 
 <h3 align="left">GitHub Stats</h3>
@@ -107,7 +123,6 @@ Want to know more about me? [Check out my Youtube.](https://www.youtube.com/chan
 <div align="center">
 
 </div>
-
 
 <details align="left">
   <summary>Credits</summary> 
