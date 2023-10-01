@@ -87,7 +87,7 @@ Quer ver mais do meu trabalho ? [Veja meu Canal do Youtube.](https://www.youtube
       </td>
 			<td valign="top">
 			<h3>Angular Playground</h3>
-			<p>Exemplos práticos com código das principais competências de Angular</p>
+			<p>Exemplos práticos das principais competências de Angular</p>
 			</td>
 		</tr>
 		<tr>
