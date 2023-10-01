@@ -82,12 +82,12 @@ Quer ver mais do meu trabalho ? [Veja meu Canal do Youtube.](https://www.youtube
 		<tr>
 			<td align="center" valign="top" width="80"><br />
 			<a href="https://github.com/felipeAguiarCode/node-chatgpt-api">
-      <img src="./.github/assets/documentation.png" />
+      <img src="./.github/assets/icons/angular.webp" />
       </a>
       </td>
 			<td valign="top">
-			<h3>ChatGPT Clone (Node + React)</h3>
-			<p>A Node integration with OpenAI algorithm and front-end with React</p>
+			<h3>Angular Playground</h3>
+			<p>Exemplos práticos com código das principais competências de Angular</p>
 			</td>
 		</tr>
 		<tr>
