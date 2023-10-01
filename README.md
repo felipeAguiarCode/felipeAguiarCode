@@ -81,13 +81,16 @@ Quer ver mais do meu trabalho ? [Veja meu Canal do Youtube.](https://www.youtube
 	<tbody>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/felipeAguiarCode/node-chatgpt-api">
+			<a href="https://github.com/felipeAguiarCode/angular-playground">
       <img src="./.github/assets/icons/angular.webp" />
       </a>
       </td>
 			<td valign="top">
 			<h3>Angular Playground</h3>
 			<p>Exemplos práticos das principais competências de Angular.</p>
+			<a href="https://github.com/felipeAguiarCode/angular-playground">
+ 			 	<img src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge" alt="Material de Apoio">
+			</a>
 			</td>
 		</tr>
 		<tr>
