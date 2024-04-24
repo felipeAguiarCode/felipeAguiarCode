@@ -23,61 +23,39 @@
   FullStack Developer • Tech Instructor • Youtuber
 </h3>
 
-<div align="center">
-<p>
-<a href="mailto:felipe.silva.aguiar047@gmail.com">
-<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=EBD03E&amp;color:FFF" alt="E-mail">
-</a>
-<a href="https://www.linkedin.com/in/felipe-me"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
-<a href="https://www.youtube.com/channel/UCCcDZkI7AITYFCgDEFV9OoQ"><img src="https://img.shields.io/badge/-Youtube-020114?style=for-the-badge&amp;logo=youtube&amp;logoColor=EBD03E&amp;color:FFF" alt="Youtube"></a></p>
-</div>
+## &nbsp;My Stack
 
----
+<img src="https://skillicons.dev/icons?i=vscode,html,css,js,cs,angular,ts,nodejs,react,nextjs,tailwind,aws,git,github,postgres&theme=dark" />
 
-### 🎯 Fluent in programming languages and business language
+## About me
 
-Olá! 👋
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Felipe Aguiar and I am a FullStack Developer and Graduate in computer science.. <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is become a Software Architect.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is HTML, CSS, Javascript, Typescript, React, NextJS, TailwindCSS, and Styled-components.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Left Speech Bubble" width="25" height="25" /> I'm a Tech Instructor at @DIO_MAKETHECHANGE platform.
 
-Eu sou Felipe, dev full-stack, criativo e 🎓formado em Ciência da Computação. Apaixonado por mudar a vida das pessoas por meio da programação, sou especialista em soluções Dotnet e Javascript.
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
-## 🛠 &nbsp;My Stack
-
-### 👩‍💻 &nbsp;Back-End
-
-![Node.js](https://img.shields.io/badge/Node.js-E7ECEB?style=for-the-badge&logo=node.js&logoColor=53D9A2)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-E7ECEB?style=for-the-badge&logo=typescript&logoColor=1572B6)&nbsp;
-![Dotnet](https://img.shields.io/badge/.NET-E7ECEB?style=for-the-badge&logo=dotnet&logoColor=435C6E)&nbsp;
-![c-sharp](https://img.shields.io/badge/-C%23-E7ECEB?style=for-the-badge&logo=c-sharp&logoColor=3D5A7A)&nbsp;
-
-### 🎨 &nbsp;Front-end
-
-![HTML](https://img.shields.io/badge/-HTML-E7ECEB?style=for-the-badge&logo=HTML5&logoColor=C86833)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-E7ECEB?style=for-the-badge&logo=CSS3&logoColor=139DFF)&nbsp;
-![React](https://img.shields.io/badge/-React-E7ECEB?style=for-the-badge&logo=react&logoColor=1572B6)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-E7ECEB?style=for-the-badge&logo=Angular&logoColor=893121)&nbsp;
-
-### ⚡ &nbsp;Database
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-E7ECEB?style=for-the-badge&logo=mongodb&logoColor=C86833)&nbsp;
-![SqlServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-E7ECEB?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=FDFD62)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-E7ECEB?style=for-the-badge&logo=mysql&logoColor=004D8F)&nbsp;
-
-## 🎬 &nbsp;Veja meus últimos vídeos tutoriais
+## 🎬 &nbsp;My Last Youtube Videos
 
 <!-- YT LIST START -->
 
-[<img src="./.github/assets/yt-covers/cv-1.png" align="left" width="200" />](https://www.youtube.com/watch?v=HTLaHYkFvV8)
-**[Chocolatey - o gerenciador de pacotes do windows](https://www.youtube.com/watch?v=HTLaHYkFvV8)**
-<br /> _13 Jul 2020_
+[<img src="https://i.ytimg.com/vi/JUF7M8hRbiM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDBGWBzC3yidy6TCzMlDxTYZbyAeA" align="left" width="200" />](https://www.youtube.com/watch?v=JUF7M8hRbiM)
+&nbsp;&nbsp;
+**[▶️ Como CRIAR UM PROJETO C# no Visual Studio Code | C# DO JEITO MODERNO!](https://www.youtube.com/watch?v=JUF7M8hRbiM)**
+<br /> &nbsp;&nbsp;&nbsp;1 semana atrás
 <img align="center" width="100%" height="0" />
-[<img src="./.github/assets/yt-covers/cv-2.png" align="left" width="200" />](https://www.youtube.com/watch?v=G31EuXNMDPk)
-**[Mini Curso Manipulando DOM com Javascript ](https://www.youtube.com/watch?v=9JVE8OGRSlA)**
-<br /> _07 Jul 2020_
+
+[<img src="https://i.ytimg.com/vi/jcPpJ2tRe2g/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBZYoL0nZTTGUkXeXXN3uBtYy0Xdw" align="left" width="200" />](https://www.youtube.com/watch?v=jcPpJ2tRe2g)
+&nbsp;&nbsp;
+**[▶️ COMO INSTALAR O DOTNET | C# DO JEITO MODERNO! ](https://www.youtube.com/watch?v=jcPpJ2tRe2g)**
+<br /> &nbsp;&nbsp;&nbsp;2 Semanas atrás
 <img align="center" width="100%" height="0" />
 
 <!-- YT LIST END -->
 
-Quer ver mais do meu trabalho ? [Veja meu Canal do Youtube.](https://www.youtube.com/channel/UCCcDZkI7AITYFCgDEFV9OoQ)
+learn dotnet c#? check out my channel [Veja meu Canal do Youtube.](https://www.youtube.com/@dotnetsenseidev)
 
 ## 📌 &nbsp;Pinned Repositories
 
@@ -116,22 +94,14 @@ Quer ver mais do meu trabalho ? [Veja meu Canal do Youtube.](https://www.youtube
 	</tbody>
 </table>
 
-## 📊 &nbsp;Stats
-
-<h3 align="left">GitHub Stats</h3>
-
+<h3>Contact Me</h3>
 <div align="left">
-	<a href="https://github.com/felipeaguiarcode/github-readme-stats" target = "_blank">
-		<img height="130em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=felipeaguiarcode&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=020114&title_color=7520FF&text_color=FFF&border_radius=3&border_color=181832&icon_color=7520FF&theme=jolly">
-	</a>
-	<img alt="Top Langs" height="130em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=felipeaguiarcode&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=7520FF&hide=html,css&bg_color=020114&text_color=8B8B8B&border_radius=3&border_color=181832">
-	<!-- <a href="https://git.io/streak-stats">
-  		<img height="130em" src="https://streak-stats.demolab.com?user=felipeaguiarcode&theme=buefy-dark&border_radius=3&date_format=M%20j%5B%2C%20Y%5D&background=020114&border=181832&ring=7520FF&stroke=181832&currStreakLabel=ED00F2&sideLabels=FCFCFC&currStreakNum=ED00F2&fire=ED00F2&sideNums=7520FF&dates=8B8B8B">
-	</a> -->
-</div>
-
-<div align="center">
-
+<p>
+<a href="mailto:felipeaguiar.social@gmail.com">
+<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=EBD03E&amp;color:FFF" alt="E-mail">
+</a>
+<a href="https://www.linkedin.com/in/felipe-me"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=EBD03E&amp;color:FFF" alt="LinkedIn"></a>
+<a href="https://www.youtube.com/@dotnetsenseidev"><img src="https://img.shields.io/badge/-Youtube-020114?style=for-the-badge&amp;logo=youtube&amp;logoColor=EBD03E&amp;color:FFF" alt="Youtube"></a></p>
 </div>
 
 <details align="left">
