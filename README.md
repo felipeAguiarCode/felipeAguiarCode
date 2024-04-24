@@ -100,7 +100,7 @@ learn dotnet c#? check out my channel [Veja meu Canal do Youtube.](https://www.y
 <div align="left">
 <p>
 <a href="mailto:felipeaguiar.social@gmail.com">
-<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=E17984&amp;color:FFF" alt="E-mail">
+<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail">
 </a>
 <a href="https://www.linkedin.com/in/felipe-me"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
 <a href="https://www.youtube.com/@dotnetsenseidev"><img src="https://img.shields.io/badge/-Youtube-020114?style=for-the-badge&amp;logo=youtube&amp;logoColor=6ED2B6&amp;color:FFF" alt="Youtube"></a></p>
