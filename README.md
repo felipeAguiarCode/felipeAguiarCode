@@ -55,7 +55,7 @@
 
 <!-- YT LIST END -->
 
-learn dotnet c#? check out my channel [Veja meu Canal do Youtube.](https://www.youtube.com/@dotnetsenseidev)
+Mais vídeos do Felipão? [Veja meu Canal do Youtube.](https://www.youtube.com/@devaguia)
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
