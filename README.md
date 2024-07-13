@@ -41,9 +41,9 @@
 
 <!-- YT LIST START -->
 
-[<img src="https://i.ytimg.com/vi/JUF7M8hRbiM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDBGWBzC3yidy6TCzMlDxTYZbyAeA" align="left" width="200" />](https://www.youtube.com/watch?v=JUF7M8hRbiM)
+[<img src="https://i9.ytimg.com/vi_webp/rkgVtUe3PL4/maxresdefault.webp?v=668b1362&sqp=COieyrQG&rs=AOn4CLAryzHXJOgFUdPo1qZkq_EVFEU4kQ" align="left" width="200" />](https://www.youtube.com/watch?v=JUF7M8hRbiM)
 &nbsp;&nbsp;
-**[▶️ Como CRIAR UM PROJETO C# no Visual Studio Code | C# DO JEITO MODERNO!](https://www.youtube.com/watch?v=JUF7M8hRbiM)**
+**[▶️ Estrutura de Pastas Para Projetos Front-end (Nível Pro) - #frontendraíz!](https://www.youtube.com/watch?v=rkgVtUe3PL4)**
 <br /> &nbsp;&nbsp;&nbsp;1 semana atrás
 <img align="center" width="100%" height="0" />
 
