@@ -41,7 +41,7 @@
 
 <!-- YT LIST START -->
 
-[<img src="https://i9.ytimg.com/vi_webp/rkgVtUe3PL4/maxresdefault.webp?v=668b1362&sqp=COieyrQG&rs=AOn4CLAryzHXJOgFUdPo1qZkq_EVFEU4kQ" align="left" width="200" />](https://www.youtube.com/watch?v=rkgVtUe3PL4)
+[<img src="https://i.ytimg.com/vi/rkgVtUe3PL4/maxresdefault.jpg" align="left" width="200" />](https://www.youtube.com/watch?v=rkgVtUe3PL4)
 &nbsp;&nbsp;
 **[▶️ Estrutura de Pastas Para Projetos Front-end (Nível Pro) - #frontendraíz!](https://www.youtube.com/watch?v=rkgVtUe3PL4)**
 <br /> &nbsp;&nbsp;&nbsp;1 semana atrás
