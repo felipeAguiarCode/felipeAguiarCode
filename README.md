@@ -41,16 +41,10 @@
 
 <!-- YT LIST START -->
 
-[<img src="https://i.ytimg.com/vi/rkgVtUe3PL4/maxresdefault.jpg" align="left" width="200" />](https://www.youtube.com/watch?v=rkgVtUe3PL4)
+[<img src="https://i.ytimg.com/vi/TRAzo48Souc/maxresdefault.jpg" align="left" width="200" />](https://www.youtube.com/watch?v=TRAzo48Souc)
 &nbsp;&nbsp;
-**[▶️ Estrutura de Pastas Para Projetos Front-end (Nível Pro) - #frontendraíz!](https://www.youtube.com/watch?v=rkgVtUe3PL4)**
+**[▶️ O QUE É REALMENTE UMA API (SEGUNDO UM SÊNIOR)](https://www.youtube.com/watch?v=TRAzo48Souc)**
 <br /> &nbsp;&nbsp;&nbsp;1 semana atrás
-<img align="center" width="100%" height="0" />
-
-[<img src="https://i.ytimg.com/vi/jcPpJ2tRe2g/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBZYoL0nZTTGUkXeXXN3uBtYy0Xdw" align="left" width="200" />](https://www.youtube.com/watch?v=jcPpJ2tRe2g)
-&nbsp;&nbsp;
-**[▶️ COMO INSTALAR O DOTNET | C# DO JEITO MODERNO! ](https://www.youtube.com/watch?v=jcPpJ2tRe2g)**
-<br /> &nbsp;&nbsp;&nbsp;2 Semanas atrás
 <img align="center" width="100%" height="0" />
 
 <!-- YT LIST END -->
