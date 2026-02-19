@@ -107,7 +107,7 @@ Mais vídeos do Felipão? [Veja meu Canal do Youtube.](https://www.youtube.com/@
       </td>
 			<td valign="top">
 			<h3>Angular Blog</h3>
-			<p>An Simple blog with Angular, good pratices for folder structure.</p>
+			<p>A Simple blog with Angular, good pratices for folder structure.</p>
 			</td>
 		</tr>
 	</tbody>
