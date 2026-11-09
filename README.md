@@ -3,38 +3,33 @@
   <img height="350em" src="./.github/assets/banner.png"/>
 </div>
 
-**`Digital Craftsman (Developer/Creator)`**
-
 <h3 align="center">
-  FullStack Developer • Tech Instructor • Youtuber
+  FullStack Developer • Tech Instructor • AI Engineering
 </h3>
-
+<p align="center"><code>Digital Craftsman — building AI-native software, model + harness.</code></p>
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
-<div><br />
-
 <p><strong>About me</strong></p>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Felipe Aguiar and I am a FullStack Developer and Graduate in computer science.. <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is become a Software Architect.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is .net C# with Angular and NodeJs with React.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Teacher%20Light%20Skin%20Tone.png" alt="Left Speech Bubble" width="25" height="25" /> I'm a Tech Instructor at @DIO_MAKETHECHANGE platform.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Felipe Aguiar — FullStack Developer, CS graduate and Tech Instructor at @DIO_MAKETHECHANGE.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Goal: Software Architect for AI-native systems — designing the **harness** around the model.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> .NET C# + Angular · Node.js + React · LLM agents.
+
+## 🧠 &nbsp;AI Engineering & Harness
+
+```txt
+spec ─▶ context ─▶ model ─▶ tools/MCP ─▶ hooks · guardrails ─▶ evals ─▶ ship
+```
+
+- **AI Engineering** : LLM apps, RAG, prompt & context engineering, evals.
+- **Harness** : agent loop, tools & MCP, hooks, subagents, memory, observability.
+- **Workflow** : Spec-Driven Development · AGENTS.md / CLAUDE.md · skills.
 
 ## &nbsp;My Stack
 
-<img src="https://skillicons.dev/icons?i=vscode,html,css,js,cs,angular,ts,nodejs,react,nextjs,tailwind,aws,git,github,postgres&theme=dark" />
-
-#
-
-  <p><strong>Entre em contato comigo</strong></p>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/felipe-me/" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo" style="display: inline-block;" /></a>
-</div>
-
-#
+<img src="https://skillicons.dev/icons?i=vscode,html,css,js,cs,angular,ts,nodejs,react,nextjs,tailwind,aws,git,github,postgres&theme=dark" /><br/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=claude,mcp,cursor,githubcopilot,ollama,huggingface&theme=dark" />
 
 <h3>Contact Me</h3>
 <div align="left">
@@ -87,27 +82,44 @@ Mais vídeos do Felipão? [Veja meu Canal do Youtube.](https://www.youtube.com/@
 	<tbody>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/felipeAguiarCode/angular-playground">
-      <img src="./.github/assets/icons/angular.webp" />
+			<a href="https://github.com/felipeAguiarCode/hotwheels-platform-with-harness">
+      <img src="./.github/assets/documentation.png" width="48" />
       </a>
       </td>
 			<td valign="top">
-			<h3>Angular Playground</h3>
-			<p>Exemplos práticos das principais competências de Angular.</p>
-			<a href="https://github.com/felipeAguiarCode/angular-playground">
- 			 	<img src="https://img.shields.io/badge/Ver%20Material-E94D5F?style=for-the-badge" alt="Material de Apoio">
+			<h3>Hotwheels Platform with Harness</h3>
+			<p>Projeto spec-driven construído com harness de agentes.</p>
+			<a href="https://github.com/felipeAguiarCode/hotwheels-platform-with-harness">
+ 			 	<img src="https://img.shields.io/badge/Ver%20Repo-E94D5F?style=for-the-badge" alt="Ver Repo">
 			</a>
 			</td>
 		</tr>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/felipeAguiarCode/angular-blog">
-      <img src="./.github/assets/documentation.png" />
+			<a href="https://github.com/felipeAguiarCode/my-agent-studio">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=claude&theme=dark" width="48" />
       </a>
       </td>
 			<td valign="top">
-			<h3>Angular Blog</h3>
-			<p>An Simple blog with Angular, good pratices for folder structure.</p>
+			<h3>My Agent Studio</h3>
+			<p>Crie agentes de IA como personagens e exporte em Markdown para o Claude Code.</p>
+			<a href="https://github.com/felipeAguiarCode/my-agent-studio">
+ 			 	<img src="https://img.shields.io/badge/Ver%20Repo-E94D5F?style=for-the-badge" alt="Ver Repo">
+			</a>
+			</td>
+		</tr>
+		<tr>
+			<td align="center" valign="top" width="80"><br />
+			<a href="https://github.com/felipeAguiarCode/squad-code-network">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=mcp&theme=dark" width="48" />
+      </a>
+      </td>
+			<td valign="top">
+			<h3>Squad Code Network</h3>
+			<p>Squad de agentes dev (comandante, ADR/PRD, especialistas) que executa sprints com Claude Code headless.</p>
+			<a href="https://github.com/felipeAguiarCode/squad-code-network">
+ 			 	<img src="https://img.shields.io/badge/Ver%20Repo-E94D5F?style=for-the-badge" alt="Ver Repo">
+			</a>
 			</td>
 		</tr>
 	</tbody>
