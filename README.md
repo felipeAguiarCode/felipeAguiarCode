@@ -71,7 +71,7 @@ Mais vídeos do Felipão? [Veja meu Canal do Youtube.](https://www.youtube.com/@
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
-## 📌 &nbsp;Pinned Repositories
+## 📌 &nbsp;Meus Aplicativos
 
 <table>
 	<thead>
@@ -82,44 +82,26 @@ Mais vídeos do Felipão? [Veja meu Canal do Youtube.](https://www.youtube.com/@
 	<tbody>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/felipeAguiarCode/hotwheels-platform-with-harness">
-      <img src="./.github/assets/documentation.png" width="48" />
-      </a>
-      </td>
+				🖼️
+			</td>
 			<td valign="top">
-			<h3>Hotwheels Platform with Harness</h3>
-			<p>Projeto spec-driven construído com harness de agentes.</p>
-			<a href="https://github.com/felipeAguiarCode/hotwheels-platform-with-harness">
- 			 	<img src="https://img.shields.io/badge/Ver%20Repo-E94D5F?style=for-the-badge" alt="Ver Repo">
-			</a>
+				<h3>Meu editor de imagens</h3>
+				<p>Dump Studio</p>
+				<a href="https://github.com/felipeAguiarCode/dump-studio">
+					<img src="https://img.shields.io/badge/Ver%20Repo-E94D5F?style=for-the-badge" alt="Ver repositório do Dump Studio">
+				</a>
 			</td>
 		</tr>
 		<tr>
 			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/felipeAguiarCode/my-agent-studio">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=claude&theme=dark" width="48" />
-      </a>
-      </td>
-			<td valign="top">
-			<h3>My Agent Studio</h3>
-			<p>Crie agentes de IA como personagens e exporte em Markdown para o Claude Code.</p>
-			<a href="https://github.com/felipeAguiarCode/my-agent-studio">
- 			 	<img src="https://img.shields.io/badge/Ver%20Repo-E94D5F?style=for-the-badge" alt="Ver Repo">
-			</a>
+				🎮
 			</td>
-		</tr>
-		<tr>
-			<td align="center" valign="top" width="80"><br />
-			<a href="https://github.com/felipeAguiarCode/squad-code-network">
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=mcp&theme=dark" width="48" />
-      </a>
-      </td>
 			<td valign="top">
-			<h3>Squad Code Network</h3>
-			<p>Squad de agentes dev (comandante, ADR/PRD, especialistas) que executa sprints com Claude Code headless.</p>
-			<a href="https://github.com/felipeAguiarCode/squad-code-network">
- 			 	<img src="https://img.shields.io/badge/Ver%20Repo-E94D5F?style=for-the-badge" alt="Ver Repo">
-			</a>
+				<h3>Minha shell</h3>
+				<p>PS5EmuShell</p>
+				<a href="https://github.com/felipeAguiarCode/PS5EmuShell">
+					<img src="https://img.shields.io/badge/Ver%20Repo-E94D5F?style=for-the-badge" alt="Ver repositório do PS5EmuShell">
+				</a>
 			</td>
 		</tr>
 	</tbody>
