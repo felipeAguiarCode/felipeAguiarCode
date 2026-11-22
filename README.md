@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://felipeaguiarcode.github.io/apps/">
-    <img src="https://img.shields.io/badge/Explore%20meus%20apps%20%E2%86%92-7C3AED?style=for-the-badge" height="34" alt="Explore meus apps">
+    <img src="./.github/assets/explore-meus-apps.png" width="232" height="40" alt="Explore meus apps">
   </a>
 </p>
 
@@ -93,6 +93,9 @@ Mais vídeos do Felipão? [Veja meu Canal do Youtube.](https://www.youtube.com/@
 			<td valign="top">
 				<h3>My Dump Studio</h3>
 				<p>Editor de fotos para Windows que permite criar colagens, Stories e carrosséis com filtros, ajustes de cor e edição em camadas.</p>
+				<a href="https://felipeaguiarcode.github.io/dump-studio/">
+					<img src="https://img.shields.io/badge/Ver%20site-1463E6?style=for-the-badge" alt="Ver site do My Dump Studio">
+				</a>
 				<a href="https://github.com/felipeAguiarCode/dump-studio">
 					<img src="https://img.shields.io/badge/Ver%20Repo-E94D5F?style=for-the-badge" alt="Ver repositório do My Dump Studio">
 				</a>
